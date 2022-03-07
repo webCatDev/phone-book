@@ -63,7 +63,7 @@ function List({ contacts, deleteContact }) {
               </li>
             ))
           ) : (
-            <li className="no-contact">{"Hiç kayıt eklemediniz"}</li>
+            <li className="no-contact">{"Yeni numara ekle"}</li>
           )}
         </ul>
       </div>
